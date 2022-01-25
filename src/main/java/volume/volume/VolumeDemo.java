@@ -37,11 +37,6 @@ public class VolumeDemo {
         System.out.println("Volume of Sphere with radius: 5 is: "+  volSphere + "\n");
         System.out.println("Volume of Sphere with radius: 5 and height: 4 is: "+  volCylinder + "\n");
         System.out.println("Volume of Sphere with length:  5, width: 4, height: 3 is: "+  volSphere + "\n");
-
-
-
-        System.out.printline("added line for the test in github");
-
         
     
     }
